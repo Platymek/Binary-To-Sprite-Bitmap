@@ -1,0 +1,16 @@
+{
+    "name": "binary_to_sprite_bitmap",
+    "version": "1.0.0",
+    "description": "",
+    "main": "dist/index.js",
+    "scripts": {
+        "build": "tsc"
+    },
+    "dependencies": {
+        "@canvas/image-data": "^1.0.0"
+    },
+    "devDependencies": {
+        "typescript": "^5.5.3"
+    },
+    "private": true
+}

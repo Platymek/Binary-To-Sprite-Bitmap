@@ -9,8 +9,5 @@
     "dependencies": {
         "@canvas/image-data": "^1.0.0"
     },
-    "devDependencies": {
-        "typescript": "^5.5.3"
-    },
     "private": true
 }

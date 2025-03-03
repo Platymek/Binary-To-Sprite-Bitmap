@@ -7,9 +7,6 @@
     "strict": true,
     "skipLibCheck": true,
     "outDir": "dist",
-    "paths": {
-      "binaryToSpriteBitmap": ["binaryToSpriteBitmap"]
-    }
   },
   "include": [
 	"src",

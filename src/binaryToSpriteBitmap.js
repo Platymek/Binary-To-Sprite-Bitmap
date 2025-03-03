@@ -25,6 +25,7 @@ function binaryStringToSpriteBitmap(
         imageData, 0, 0, width, width, { resizeQuality: "pixelated" });
 }
 
+
 function binaryNumberToSpriteBitmap(
     ctx, binary, width = 16) {
 
@@ -33,6 +34,7 @@ function binaryNumberToSpriteBitmap(
 
     return binaryStringToSpriteBitmap(ctx, bString, width);
 }
+
 
 export default binaryNumberToSpriteBitmap
 export { binaryStringToSpriteBitmap, binaryNumberToSpriteBitmap };
